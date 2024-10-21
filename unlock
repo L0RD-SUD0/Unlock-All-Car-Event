@@ -1,0 +1,29 @@
+local args = {
+    [1] = "UnlockInfoB"
+}
+
+game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
+
+local args = {
+    [1] = "UnlockInfoB"
+}
+
+game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
+
+local args = {
+    [1] = "UnlockInfoC"
+}
+
+game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
+
+local args = {
+    [1] = "UnlockInfoD"
+}
+
+game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
+
+local args = {
+    [1] = "UnlockInfoE"
+}
+
+game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
