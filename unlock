@@ -1,3 +1,4 @@
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Credit",Text="This script made by Lord Sudo",Duration=5})
 local args = {
     [1] = "UnlockInfoB"
 }
@@ -27,3 +28,4 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").RE.Holiday:FireServer(unpack(args))
+game:GetService("StarterGui"):SetCore("SendNotification",{Title="Car event",Text="All car is now unlocked!",Duration=1})
